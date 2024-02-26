@@ -1,0 +1,14 @@
+[{
+    "title": "Zedxion Mainnet",
+    "url": "https://zedscan.net/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/Zedscan/frontend-configs/master/configs/network-icons/zedscan.png",
+    "isActive": true
+},
+{
+    "title": "Zedxion Testnet",
+    "url": "http://testnet-explorer.zedscan.net/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/Zedscan/frontend-configs/master/configs/network-icons/zedscan.png"
+}
+]

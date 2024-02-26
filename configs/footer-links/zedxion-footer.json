@@ -1,0 +1,81 @@
+[
+	{
+		"title": "Company Chain Zed20 ",
+		"links": [
+			{
+				"text": "Bug Bonty ",
+				"url": "https://zedxion.zendesk.com/hc/en-gb/articles/22833645297041-Bug-Bonty"
+			},
+			{
+				"text": "Terms & Privacy",
+				"url": "https://zedxion.zendesk.com/hc/en-gb/articles/22833601722001-Terms-Privacy"
+			},
+			{
+				"text": "Contact Us",
+				"url": "https://zedxion.zendesk.com/hc/en-gb/articles/22833612259217-Contact-Us"
+			},
+			{
+				"text": "Brand Asset",
+				"url": "https://zedxion.zendesk.com/hc/en-gb/articles/22833575697809-Brand-Asset"
+			},
+			{
+				"text": "About Us ( ZedScan ) ",
+				"url": "https://zedxion.zendesk.com/hc/en-gb/articles/22833572837905-About-Us-ZedScan"
+			}
+		]
+	},
+	{
+		"title": "ZedScan Community",
+		"links": [
+			{
+				"text": "NewsLetters",
+				"url": "https://zedxion.zendesk.com/hc/en-gb/articles/22833926382865-NewsLetters"
+			},
+			{
+				"text": "Network Status",
+				"url": "https://example.com"
+			},
+			{
+				"text": "Knowledge Base ",
+				"url": "https://zedxion.zendesk.com/hc/en-gb/articles/22833717328529-Knowledge-Base"
+			},
+			{
+				"text": "API Documentation ",
+				"url": "https://zedxion.zendesk.com/hc/en-gb/articles/22833715933713-API-Documentation"
+			}
+		]
+	},
+	{
+		"title": "Products & Services",
+		"links": [
+			{
+				"text": "Zedxion Buy Coin",
+				"url": "https://zedxion.zendesk.com/hc/en-gb/articles/22833968967313-Zedxion-Buy-Coin"
+			},
+			{
+				"text": "Token Deploy",
+				"url": "https://zedxion.zendesk.com/hc/en-gb/articles/22833964725265-Token-Deploy"
+			},
+			{
+				"text": "Stake ",
+				"url": "https://zedxion.zendesk.com/hc/en-gb/articles/22833923112081-Stake"
+			},
+			{
+				"text": "Botexion Market making Bot ",
+				"url": "https://zedxion.zendesk.com/hc/en-gb/articles/22833934001297-Botexion-Market-making-Bot"
+			},
+			{
+				"text": "API Plans",
+				"url": "https://zedxion.zendesk.com/hc/en-gb/articles/22833897830161-API-Plans"
+			},
+			{
+				"text": "Explorer-as-a-Service ( EaaS ) ",
+				"url": "https://zedxion.zendesk.com/hc/en-gb/articles/22833917173777-Explorer-as-a-Service-EaaS"
+			},
+			{
+				"text": "Advertise",
+				"url": "https://zedxion.zendesk.com/hc/en-gb/articles/22833927572497-Advertise"
+			}
+		]
+	}
+]
