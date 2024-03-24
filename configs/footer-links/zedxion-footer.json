@@ -8,19 +8,19 @@
 			},
 			{
 				"text": "Brand Assets",
-				"url": ""
+				"url":"https://zedxion.zendesk.com/hc/en-gb/articles/22833575697809-Brand-Asset"
 			},
 			{
 				"text": "Contact Us",
-				"url": ""
+				"url":"https://zedxion.zendesk.com/hc/en-gb/articles/22833612259217-Contact-Us"
 			},
 			{
 				"text": "Terms & Privacy",
-				"url": ""
+				"url": "https://zedxion.zendesk.com/hc/en-gb/articles/22833601722001-Terms-Privacy"
 			},
 			{
 				"text": "Bug Bounty ",
-				"url": ""
+				"url": "https://zedxion.zendesk.com/hc/en-gb/articles/22833645297041-Bug-Bonty"
 			}
 		]
 	},
@@ -29,19 +29,19 @@
 		"links": [
 			{
 				"text": "API Documentation",
-				"url": ""
+				"url": "https://docs.zedscan.net"
 			},
 			{
 				"text": "Knowledge Base",
-				"url": ""
+				"url": "https://zedxion.zendesk.com/hc/en-gb/articles/22833717328529-Knowledge-Base"
 			},
 			{
 				"text": "Network Status ",
-				"url": ""
+				"url": "https://zedxion.zendesk.com/hc/en-gb/articles/22833874777233-Network-Status"
 			},
 			{
-				"text": "Learn BSC ",
-				"url": ""
+				"text": "Learn ZEDSCAN ",
+				"url": "https://docs.zedscan.net/general/learn-about-the-fuse-platform"
 			}
 		]
 	},
@@ -50,23 +50,23 @@
 		"links": [
 			{
 				"text": "Advertise ",
-				"url": ""
+				"url": "https://zedxion.zendesk.com/hc/en-gb/articles/22833927572497-Advertise"
 			},
 			{
 				"text": "Explorer-as-a-Service (EaaS) ",
-				"url": ""
+				"url": "https://zedxion.zendesk.com/hc/en-gb/articles/22833917173777-Explorer-as-a-Service-EaaS"
 			},
 			{
 				"text": "API Plans ",
-				"url": ""
+				"url": "https://zedxion.zendesk.com/hc/en-gb/articles/22833897830161-API-Plans"
 			},
 			{
 				"text": "Priority Support ",
-				"url": ""
+				"url": "https://zedxion.zendesk.com/hc/en-gb/sections/22833678536977-Products-Services"
 			},
 			{
 				"text": "Blockscan ",
-				"url": ""
+				"url": "https://zedscan.net/blocks"
 			}
 		]
 	}
