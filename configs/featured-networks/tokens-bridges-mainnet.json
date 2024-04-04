@@ -3,10 +3,9 @@
         "address": "0xb78E2642b875928254cF50683D0589ca249f4efc", 
         "title": "Bridged Cross-Border BNB", 
         "short_title": "BNB" 
-    }
-]
-  "address": "0x5B0F21f60116b9463210C00C7A1A6A46E26BFA33", 
-        "title": "Dex Exchange Token", 
-        "short_title": "ZED" 
+    
+         "address": "0x5B0F21f60116b9463210C00C7A1A6A46E26BFA33", 
+         "title": "Dex Exchange Token", 
+         "short_title": "ZED" 
     }
       
