@@ -19,4 +19,30 @@
         "title": "ZEDDEX Exchange Token", 
         "short_title": "ZED" 
     }
+    { 
+        "address": "0x240962a6dDD67DD382DB4d417CbDF0d8822ACA2f", 
+        "title": "Bridged Cross-Border BNB", 
+        "short_title": "BTC.z" 
+    },
+     { 
+        "address": "0xfE5f4FA42e7A3027475A3Eb54F7eE16c332298f1", 
+        "title": "Bridged Cross-Border BNB", 
+        "short_title": "USDC.z" 
+    }, 
+    { 
+        "address": "0xc5bCe7B218223c24880bCb0bD2C5b78b32ab875E", 
+        "title": "Bridged Cross-Border BNB", 
+        "short_title": "TRX.z" 
+    },
+     { 
+        "address": "0xd47d84859a783e06a76bB3abA0345C3556BCc1D9", 
+        "title": "Bridged Cross-Border BNB", 
+        "short_title": "ETH.z" 
+    }
+    },
+     { 
+        "address": "0x42A74a2029fF7D95184e512a12B12079B8ed92Ba", 
+        "title": "SCAM Tokne", 
+        "short_title": "USDT.z" 
+    }
 ]
