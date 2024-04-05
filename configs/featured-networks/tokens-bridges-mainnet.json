@@ -1,7 +1,13 @@
 [
     { 
-        "address": "0xb78E2642b875928254cF50683D0589ca249f4efc", 
+        "address": "0xC32489bA6eb7A55469751a8ef5A884A73A084F3E", 
         "title": "Bridged Cross-Border BNB", 
         "short_title": "BNB" 
-    }
-[
+    },
+
+     { 
+        "address": "0xb78E2642b875928254cF50683D0589ca249f4efc", 
+        "title": "Bridged Cross-Border BNB", 
+        "short_title": "USDT.z" 
+    },
+    [
