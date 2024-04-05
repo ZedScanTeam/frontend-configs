@@ -18,7 +18,7 @@
         "address": "0x5B0F21f60116b9463210C00C7A1A6A46E26BFA33", 
         "title": "ZEDDEX Exchange Token", 
         "short_title": "ZED" 
-    }
+    },
     { 
         "address": "0x240962a6dDD67DD382DB4d417CbDF0d8822ACA2f", 
         "title": "Bridged Cross-Border BNB", 
@@ -38,7 +38,6 @@
         "address": "0xd47d84859a783e06a76bB3abA0345C3556BCc1D9", 
         "title": "Bridged Cross-Border BNB", 
         "short_title": "ETH.z" 
-    }
     },
      { 
         "address": "0x42A74a2029fF7D95184e512a12B12079B8ed92Ba", 
