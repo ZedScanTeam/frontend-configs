@@ -1,1 +1,9 @@
-[]
+{
+  "code": "0",
+  "msg": "suc",
+  "data": {
+      "ticker": [
+      ]
+  },
+  "message": null
+}
